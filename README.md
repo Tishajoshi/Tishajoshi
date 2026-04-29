@@ -23,7 +23,7 @@
 ## 📫 Connect
 
 * 💼 LinkedIn: [https://linkedin.com/in/tisha-joshi](https://www.linkedin.com/in/tisha-joshi-8617b02bb/)
-* 📧 Email: [tisha.23ise@cambridge.edu.in](mailto:tisha.23ise@cambridge.edu.in)
+* 📧 Email: [tisha.joshi122@gmail.com]
 
 ## 🎯 Goal
 
