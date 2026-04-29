@@ -1,16 +1,30 @@
-## Hi there 👋
+##                                   Hi, I'm Tisha🌸
 
-<!--
-**Tishajoshi/Tishajoshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩‍💻 About Me
 
-Here are some ideas to get you started:
+* 🎓 3rd Year Engineering Student
+* 💻 Aspiring Software Engineer (SDE)
+* 🧠 Solved 150+ problems on LeetCode
+* 📈 Focused on Data Structures & Algorithms
+* 🚀 Preparing for product-based company interviews
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Skills
+
+* Languages: Java, Python
+* Core DSA: Arrays, Strings, Trees, Recursion, Backtracking
+* Concepts: Problem Solving, Algorithm Optimization
+
+## 📊 Coding Profile
+
+* 🔥 150+ LeetCode Problems Solved
+* 🎯 Strong focus on Medium-level problems
+* ⏱️ Practicing consistency & time optimization
+
+## 📫 Connect
+
+* 💼 LinkedIn: https://linkedin.com/in/tisha-joshi
+* 📧 Email: [tisha.23ise@cambridge.edu.in](mailto:tisha.23ise@cambridge.edu.in)
+
+## 🎯 Goal
+
+* To build strong problem-solving skills and secure a Software Engineering role in a top product-based company.
